@@ -40,44 +40,44 @@
 ✔ Please have a look at my [Résumé](https://manojcode94.github.io/manoj_kumar_resume.pdf) for more details about me. I'm open to feedback and suggestions!<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br>
  
-<p align="center">
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***</p>
 
 <p align="left">
   <h4>Programming Languages</h4>
-  <a href= "#"> <img src ="./images/java-logo-svgrepo-com.svg" width="50px"></a>
-  <a href= "#"> <img src ="./images/python-svgrepo-com.svg" width='50px'> </a>
-  <a href= "#"> <img src ='./images/javascript-svgrepo-com.svg' width="50px"></a>
-  <a href= "#"> <img src ='./images/sql-database-generic-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.java.com/en/"> <img src ="./images/java-logo-svgrepo-com.svg" width="50px"></a>
+  <a href= "https://www.python.org/"> <img src ="./images/python-svgrepo-com.svg" width='50px'> </a>
+  <a href= "https://www.w3schools.com/js/"> <img src ='./images/javascript-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.w3schools.com/sql/"> <img src ='./images/sql-database-generic-svgrepo-com.svg' width="50px"></a>
 </P>
 <p align="right">
   <h4>Web/Frameworks/Libraries</h4>
-  <a href= "#"> <img src ='./images/spring-svgrepo-com.svg' width="50px"></a>
-  <a href= "#"> <img src ='./images/node-js-svgrepo-com.svg' width="50px"></a>
-  <a href= "#"> <img src ='./images/react-javascript-js-framework-facebook-svgrepo-com.svg' width="50px"></a>
-    <a href= "#"> <img src ='./images/django-svgrepo-com.svg' width="50px"></a>
-     <a href= "#"> <img src ='./images/html-5-svgrepo-com.svg' width="50px"></a>
-     <a href= "#"> <img src ='./images/css3-svgrepo-com.svg' width="50px"></a>
-     <a href= "#"> <img src ='./images/android-icon-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://spring.io/"> <img src ='./images/spring-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://nodejs.org/en"> <img src ='./images/node-js-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://react.dev/"> <img src ='./images/react-javascript-js-framework-facebook-svgrepo-com.svg' width="50px"></a>
+    <a href= "https://www.djangoproject.com/"> <img src ='./images/django-svgrepo-com.svg' width="50px"></a>
+     <a href= "https://www.w3schools.com/html/"> <img src ='./images/html-5-svgrepo-com.svg' width="50px"></a>
+     <a href= "https://www.tutorialspoint.com/css/css3_tutorial.htm"> <img src ='./images/css3-svgrepo-com.svg' width="50px"></a>
+     <a href= "https://developer.android.com/studio"> <img src ='./images/android-icon-svgrepo-com.svg' width="50px"></a>
 </P>  
 
 <p align="right">
   <h4>Devloper Tools</h4>
-  <a href= "#"> <img src ='./images/git-svgrepo-com.svg' width="50px"></a>
-  <a href= "#"> <img src ='./images/github-color-svgrepo-com.svg' width="50px"></a>
-  <a href= "#"> <img src ='./images/linux-svgrepo-com.svg' width="50px"></a>
-  <a href= "#"> <img src ='./images/maven-svgrepo-com.svg' width="50px"></a>
-  <a href= "#"> <img src ='./images/postman-icon-svgrepo-com.svg' width="50px"></a>
-  <a href= "#"> <img src ='./images/vs-code-svgrepo-com.svg' width="50px"></a>
-  <a href= "#"> <img src ='./images/docker-svgrepo-com.svg' width="50px"></a>
-  <a href= "#"> <img src ='./images/bash-icon-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://git-scm.com/"> <img src ='./images/git-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://github.com/"> <img src ='./images/github-color-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://ubuntu.com/"> <img src ='./images/linux-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://maven.apache.org/"> <img src ='./images/maven-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.postman.com/"> <img src ='./images/postman-icon-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://code.visualstudio.com/"> <img src ='./images/vs-code-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.docker.com/"> <img src ='./images/docker-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.gnu.org/software/bash/"> <img src ='./images/bash-icon-svgrepo-com.svg' width="50px"></a>
 </P>  
 
 <p align="right">
   <h4>Database/Cloud Exposure</h4>
-  <a href= "#"> <img src ='./images/aws-svgrepo-com.svg' width="50px"></a>
-  <a href= "#"> <img src ='./images/mongodb-logo-svgrepo-com.svg' width="50px"></a>
-  <a href= "#"> <img src ='./images/mysql-logo-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://aws.amazon.com/"> <img src ='./images/aws-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.mongodb.com/"> <img src ='./images/mongodb-logo-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.mysql.com/"> <img src ='./images/mysql-logo-svgrepo-com.svg' width="50px"></a>
 </P>  
 
 
