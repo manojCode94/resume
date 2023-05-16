@@ -50,13 +50,37 @@
   <a href= "#"> <img src ='./images/javascript-svgrepo-com.svg' width="50px"></a>
   <a href= "#"> <img src ='./images/sql-database-generic-svgrepo-com.svg' width="50px"></a>
 </P>
-<p align="center">
-  <h4>Frameworks/Libraries</h4>
+<p align="right">
+  <h4>Web/Frameworks/Libraries</h4>
   <a href= "#"> <img src ='./images/spring-svgrepo-com.svg' width="50px"></a>
   <a href= "#"> <img src ='./images/node-js-svgrepo-com.svg' width="50px"></a>
   <a href= "#"> <img src ='./images/react-javascript-js-framework-facebook-svgrepo-com.svg' width="50px"></a>
+    <a href= "#"> <img src ='./images/django-svgrepo-com.svg' width="50px"></a>
+     <a href= "#"> <img src ='./images/html-5-svgrepo-com.svg' width="50px"></a>
+     <a href= "#"> <img src ='./images/css3-svgrepo-com.svg' width="50px"></a>
+     <a href= "#"> <img src ='./images/android-icon-svgrepo-com.svg' width="50px"></a>
 </P>  
-  
+
+<p align="right">
+  <h4>Devloper Tools</h4>
+  <a href= "#"> <img src ='./images/git-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/github-color-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/linux-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/maven-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/postman-icon-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/vs-code-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/docker-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/bash-icon-svgrepo-com.svg' width="50px"></a>
+</P>  
+
+<p align="right">
+  <h4>Database/Cloud Exposure</h4>
+  <a href= "#"> <img src ='./images/aws-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/mongodb-logo-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/mysql-logo-svgrepo-com.svg' width="50px"></a>
+</P>  
+
+
 <hr>
 <p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
