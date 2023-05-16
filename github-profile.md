@@ -49,12 +49,13 @@
   <a href= "#"> <img src ="./images/python-svgrepo-com.svg" width='50px'> </a>
   <a href= "#"> <img src ='./images/javascript-svgrepo-com.svg' width="50px"></a>
   <a href= "#"> <img src ='./images/sql-database-generic-svgrepo-com.svg' width="50px"></a>
+</P>
 <p align="right">
   <h4>Frameworks/Libraries</h4>
   <a href= "#"> <img src ='./images/spring-svgrepo-com.svg' width="50px"></a>
   <a href= "#"> <img src ='./images/node-js-svgrepo-com.svg' width="50px"></a>
   <a href= "#"> <img src ='./images/react-javascript-js-framework-facebook-svgrepo-com.svg' width="50px"></a>
-  
+</P>  
   
 <hr>
 <p align="center">
