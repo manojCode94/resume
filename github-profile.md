@@ -59,10 +59,10 @@
   <a href= "https://spring.io/"> <img src ='./images/spring-svgrepo-com.svg' width="50px"></a>
   <a href= "https://nodejs.org/en"> <img src ='./images/node-js-svgrepo-com.svg' width="50px"></a>
   <a href= "https://react.dev/"> <img src ='./images/react-javascript-js-framework-facebook-svgrepo-com.svg' width="50px"></a>
-    <a href= "https://www.djangoproject.com/"> <img src ='./images/django-svgrepo-com.svg' width="50px"></a>
-     <a href= "https://www.w3schools.com/html/"> <img src ='./images/html-5-svgrepo-com.svg' width="50px"></a>
-     <a href= "https://www.tutorialspoint.com/css/css3_tutorial.htm"> <img src ='./images/css3-svgrepo-com.svg' width="50px"></a>
-     <a href= "https://developer.android.com/studio"> <img src ='./images/android-icon-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.djangoproject.com/"> <img src ='./images/django-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.w3schools.com/html/"> <img src ='./images/html-5-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.tutorialspoint.com/css/css3_tutorial.htm"> <img src ='./images/css3-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://developer.android.com/studio"> <img src ='./images/android-icon-svgrepo-com.svg' width="50px"></a>
 </P>  
 
 <p align="right">
