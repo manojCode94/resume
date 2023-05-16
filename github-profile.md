@@ -50,7 +50,7 @@
   <a href= "#"> <img src ='./images/javascript-svgrepo-com.svg' width="50px"></a>
   <a href= "#"> <img src ='./images/sql-database-generic-svgrepo-com.svg' width="50px"></a>
 </P>
-<p align="right">
+<p align="center">
   <h4>Frameworks/Libraries</h4>
   <a href= "#"> <img src ='./images/spring-svgrepo-com.svg' width="50px"></a>
   <a href= "#"> <img src ='./images/node-js-svgrepo-com.svg' width="50px"></a>
