@@ -50,38 +50,38 @@
 <p align="left">
   <h4>Programming Languages</h4>
   <a href= "https://www.java.com/en/"> <img src ="https://github.com/manojCode94/resume/tree/main/images/java-logo-svgrepo-com.svg" width="50px"></a>
-  <a href= "https://www.python.org/"> <img src ="https://github.com/manojCode94/resume/tree/main/images/images/python-svgrepo-com.svg" width='50px'> </a>
-  <a href= "https://www.w3schools.com/js/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/javascript-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://www.w3schools.com/sql/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/sql-database-generic-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.python.org/"> <img src ="https://github.com/manojCode94/resume/tree/main/images/python-svgrepo-com.svg" width='50px'> </a>
+  <a href= "https://www.w3schools.com/js/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/javascript-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.w3schools.com/sql/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/sql-database-generic-svgrepo-com.svg' width="50px"></a>
 </P>
 <p align="right">
   <h4>Web/Frameworks/Libraries</h4>
-  <a href= "https://spring.io/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/spring-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://nodejs.org/en"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/node-js-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://react.dev/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/react-javascript-js-framework-facebook-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://www.djangoproject.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/django-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://www.w3schools.com/html/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/html-5-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://spring.io/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/spring-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://nodejs.org/en"> <img src ='https://github.com/manojCode94/resume/tree/main/images/node-js-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://react.dev/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/react-javascript-js-framework-facebook-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.djangoproject.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/django-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.w3schools.com/html/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/html-5-svgrepo-com.svg' width="50px"></a>
   <a href= "https://www.tutorialspoint.com/css/css3_tutorial.htm"> <img src ='./images/css3-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://developer.android.com/studio"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/android-icon-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://developer.android.com/studio"> <img src ='https://github.com/manojCode94/resume/tree/main/images/android-icon-svgrepo-com.svg' width="50px"></a>
 </P>  
 
 <p align="right">
   <h4>Devloper Tools</h4>
-  <a href= "https://git-scm.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/git-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://git-scm.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/git-svgrepo-com.svg' width="50px"></a>
   <a href= "https://github.com/"> <img src ='./images/github-color-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://ubuntu.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/linux-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://maven.apache.org/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/maven-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://www.postman.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/postman-icon-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://code.visualstudio.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/vs-code-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://www.docker.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/docker-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://www.gnu.org/software/bash/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/bash-icon-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://ubuntu.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/linux-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://maven.apache.org/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/maven-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.postman.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/postman-icon-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://code.visualstudio.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/vs-code-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.docker.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/docker-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.gnu.org/software/bash/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/bash-icon-svgrepo-com.svg' width="50px"></a>
 </P>  
 
 <p align="right">
   <h4>Database/Cloud Exposure</h4>
-  <a href= "https://aws.amazon.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/aws-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://www.mongodb.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/mongodb-logo-svgrepo-com.svg' width="50px"></a>
-  <a href= "https://www.mysql.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/images/mysql-logo-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://aws.amazon.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/aws-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.mongodb.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/mongodb-logo-svgrepo-com.svg' width="50px"></a>
+  <a href= "https://www.mysql.com/"> <img src ='https://github.com/manojCode94/resume/tree/main/images/mysql-logo-svgrepo-com.svg' width="50px"></a>
 </P>
 
 
