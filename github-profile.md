@@ -44,7 +44,7 @@
 
 
 <img width="50%" align="right" alt="Github"  src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png"/> 
-<p align="left">
+<p align="center">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***</p>
 </p>
 <p align="left">
