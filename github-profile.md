@@ -90,14 +90,15 @@
 <p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojCode94&show_icons=true&locale=en&layout=compact" alt="manojCode94" width="100"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojCode94&show_icons=true&locale=en&layout=compact" alt="manojCode94" width="300"  />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojCode94&show_icons=true&locale=en" alt="manojCode94" width="100" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manojcode94&" alt="manojcode94" width="200"/>
 </p>
 <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manojcode94&" alt="manojcode94" width="100"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojCode94&show_icons=true&locale=en" alt="manojCode94" width="300" />
 </p>
+
 </div>
 
 <hr>
