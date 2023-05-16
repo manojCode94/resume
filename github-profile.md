@@ -41,7 +41,9 @@
 ✔ Ask me about **Java**, **Spring Boot**, **NodeJS**, & **Backend Development** 😉<br>
 ✔ Please have a look at my [Résumé](https://manojcode94.github.io/manoj_kumar_resume.pdf) for more details about me. I'm open to feedback and suggestions!<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br>
- 
+
+
+<img width="50%" align="right" alt="Github"  src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png"/> 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***</p>
 <p align="left">
   <h4>Programming Languages</h4>
@@ -79,9 +81,7 @@
   <a href= "https://www.mongodb.com/"> <img src ='./images/mongodb-logo-svgrepo-com.svg' width="50px"></a>
   <a href= "https://www.mysql.com/"> <img src ='./images/mysql-logo-svgrepo-com.svg' width="50px"></a>
 </P>
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png"/>
-</p>  
+
 
 
 <hr>
