@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manoj Kumar</h1>
-<h3 align="center">Software Engineer |  Backend Developer |  Data Analysis Enthusiast</h3>
+<h3 align="center">Software Engineer |  Backend Developer |  Data Analysis Enthusiast | Data Structure | Algorithm</h3>
 <p align="center">
 <a href = 'https://linkedin.com/in//manojku123/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = "manojcode94.github.io/"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
@@ -19,7 +19,7 @@
   <em>
     This is ME, Manoj Kumar, a <b>Software Development Engineer (SDE 1)</b> <a href="https://www.fisglobal.com/en"> <b>@ FIS GLOBAL</b></a>. <br>
     A <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    with the idea of <b>improving</b> myself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
