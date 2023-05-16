@@ -88,19 +88,17 @@
 <p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 
-<div>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manojCode94&show_icons=true&locale=en&layout=compact" alt="manojCode94" />
-  </p>
-  
-  <p align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=manojcode94&" alt="manojcode94"/>
-  </p>
-  
-  <p align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=manojCode94&show_icons=true&locale=en" alt="manojCode94" width="410" />
-  </p>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manojCode94&show_icons=true&locale=en&layout=compact" alt="manojCode94" />
+</p>
+
+<p align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=manojcode94&" alt="manojcode94"/>
+</p>
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojCode94&show_icons=true&locale=en" alt="manojCode94" width="250" />
+</p>
 <hr>
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
