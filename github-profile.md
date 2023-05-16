@@ -44,13 +44,20 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 
 <p align="left">
-
-<h6>Programming Languges</h6>
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-<a href= "#"> <img src ="./images/java-logo-svgrepo-com.svg" width="50px"></a>
-<a href= "#"> <img src ="./images/python-svgrepo-com.svg" width='50px'> </a>
-<a href= "#"> <img src ='./images/javascript-svgrepo-com.svg' width="50px"></a>
-  
+  <h3>Programming Languges</h3>
+  <a href= "#"> <img src ="./images/java-logo-svgrepo-com.svg" width="50px"></a>
+  <a href= "#"> <img src ="./images/python-svgrepo-com.svg" width='50px'> </a>
+  <a href= "#"> <img src ='./images/javascript-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/sql-database-generic-svgrepo-com.svg' width="50px"></a>
+</p>
+<p align="right">
+  <h3>Frameworks/Libraries</h3>
+  <a href= "#"> <img src ='./images/spring-boot-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/spring-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/spring-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/node-js-svgrepo-com.svg' width="50px"></a>
+  <a href= "#"> <img src ='./images/react-javascript-js-framework-facebook-svgrepo-com.svg' width="50px"></a>
+</p> 
   
   
 <hr>
